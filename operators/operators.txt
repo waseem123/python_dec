@@ -1,0 +1,51 @@
+1. Arithmetic Operators
+	a. Addition (+)
+	b. Subtraction (-)
+	c. Multiplication (*)
+	d. Division (/)
+	e. Floor Division (//)
+	f. Modulus (%)
+	g. Exponential (**)
+
+2. Assignment Operators
+	a. assignment (=)
+
+3. Relational Operators / Comparison Operators
+	a. Greater Than (>)
+	b. Lesser Than (<)
+	c. Greater or Equal(>=)
+	d. Lesser or Equal(<=)
+	e. Equality (==)
+	f. Not Equal(!=)
+
+4. Logical Operators
+	a. AND (and)
+	b. OR (or)
+	c. NOT (not)
+
+5. Identity Operators
+	a. IS (is)
+	b. IS NOT (is not)
+
+6. Membership Operators
+	a. IN (in)
+	b. NOT IN (not in)
+
+7. Bitwise Operators
+	a. bitwise and(&)
+	b. bitwise or(|)
+
+8. Shift Operators
+	a. Left Shift(<<)
+	b. Right Shift(>>)
+
+
+The symbols used to perform operation are called as OPERATORS.
+
+The variables on which we perform the operations are called as OPERANDS.
+
+BODMAS(Operator Precedance)
+1. Bracket of 
+2. Exponential
+3. DIVISION = MULTIPLICATION 
+4. ADDITION = SUBTRACTION
