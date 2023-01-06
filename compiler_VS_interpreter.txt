@@ -1,0 +1,13 @@
+Compiler - 
+- Compiler is a software used to translate the code to machine 
+understandable code ie. binary code.
+- The compiler compiles the entire code in a single scan and then
+it executes the code.
+- examples - C, C++, Java etc.
+
+Interpreter - 
+- Interpreter is also the same kind of compiler to translate the
+source code to binary code.
+- Interpreter interpretes the code line by line and execute at the 
+same time.
+- examples - Python, Javascript, PHP etc.
