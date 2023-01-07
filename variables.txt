@@ -1,0 +1,14 @@
+What is variable?
+ - Variable is a name given to a specific memory location
+to store a single value.
+ - Variable are ever changing in nature.
+ 	vary meanse changing
+
+
+Variable declaration rules - 
+1. Variable name must start with character
+2. Varibale name can not have any space or new line
+3. Variable name can not have any special character except UNDERSCORE(_)
+4. variable should not be taken from any keyword
+5. Variable name is case sensitive in nature
+6. Variable name must have to be meaningful
