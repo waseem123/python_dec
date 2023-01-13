@@ -1,0 +1,31 @@
+if(CONDITION){
+	statement 1
+	statemnet 2
+	---
+	statement N
+}
+Conditional - 
+	1. IF
+		if CONDITION:
+			statement 1
+			statemnet 2
+			---
+			statement N
+		REST OF THE CODE
+
+	2. IF - ELSE
+		if CONDITION:
+			statement 1
+			statemnet 2
+			---
+			statement N
+		else:
+			statement 1
+			statemnet 2
+			---
+			statement N
+			
+	3. IF - ELIF - ELSE
+	4. NESTED CONDITIONS
+Choice - 
+	MATCH STATEMENTS

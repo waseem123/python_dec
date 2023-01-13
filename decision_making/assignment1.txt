@@ -1,0 +1,11 @@
+1. Accept the number input from user and check it is even or odd number
+2. Accept any data from user input and check its types and display the following message - 
+	a. if it is int - INTEGER
+	b. if it is str - STRING.
+
+(DO IT LATER)
+3. Accept the age and ask if the user has voter id 		-  if user has age 18+ then check 
+	 -	if he/she has voter id and display that 	YOU ARE ELIGIBLE.
+	 - 	If user has age 18+ but not having voter id then display YOU CAN NOT VOTE
+	 - If user is below 18 then display 
+	 	YOU ARE NOT ELIGIBLE
