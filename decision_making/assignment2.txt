@@ -1,0 +1,13 @@
+step1 - Input 3 subject's marks from user out of 100 individual.
+step2 - Calculate their total marks and their percentage.
+step3 - Check the user's grade by using following criteria - 
+		a. if percentage is 80+ then display 
+			DISTINCTION
+		b. if percentage is 60+ and below 80 then display 
+			FIRST CLASS
+		c. if percentage is 50+ and below 60 then display 
+			SECOND CLASS
+		d. if percentage is 40+ and below 50 then display 
+			PASS
+		e. if percentage is below 40 then display 
+			FAIL
