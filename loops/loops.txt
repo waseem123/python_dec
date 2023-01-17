@@ -1,0 +1,14 @@
+To perform any task in repeatative manner
+we use the Loops. Basically programming languages have 2 types of loops 
+ 1. Entry Controlled
+ 		The loop who looks for the condition to be satisfied before its execution
+ 		a. While
+ 		b. for - in
+ 2. Exit Controlled
+ 		The loop who looks for the condition to be satisfied after its execution that will decide the next iteration of loop..
+ 		a. do-while
+
+1. WHILE - 
+	works on condition, and it executes unless and until the condition does not get failed. It is indeterminate.
+2. FOR - 
+	works on ranges. It is determinate loop. i.e. It is already having execution plan for start and end.
