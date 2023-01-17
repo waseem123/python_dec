@@ -26,6 +26,73 @@ Conditional -
 			statement N
 			
 	3. IF - ELIF - ELSE
+		if CONDITION:
+			statement 1
+			statemnet 2
+			---
+			statement N
+		elif CONDITION:
+			statement 1
+			statemnet 2
+			---
+			statement N
+		elif CONDITION:
+			statement 1
+			statemnet 2
+			---
+			statement N
+		elif CONDITION:
+			statement 1
+			statemnet 2
+			---
+			statement N
+
+		else:
+			statement 1
+			statemnet 2
+			---
+			statement N
+
 	4. NESTED CONDITIONS
+		if CONDITION:
+			statement 1
+			statemnet 2
+			if CONDITION:
+				statement a
+				statement b
+				---
+				statement z
+			else:
+				statement a
+				statement b
+				---
+				statement z
+			---
+			statement N
+		else:
+			statement 1
+			statemnet 2
+			if CONDITION:
+				statement a
+				statement b
+				---
+				statement z
+			else:
+				statement a
+				statement b
+				---
+				statement z
+			---
+			statement N
 Choice - 
 	MATCH STATEMENTS
+		match choice:
+			case 1:
+				body of case1
+			case 2:
+				body of case2
+			.....
+			case N:
+				body of caseN
+			case _:
+				body of default case
