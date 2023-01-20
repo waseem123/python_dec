@@ -1,0 +1,19 @@
+1. Print even numbers between 1 to 10 using for-in loop
+	Expected OUTPUT - 
+	2
+	4
+	6
+	8
+
+2. Print the table of 10 using while loop
+	EXPECTED OUTPUT - 
+	10
+	20
+	30
+	40
+	50
+	60
+	70
+	80
+	90
+	100
