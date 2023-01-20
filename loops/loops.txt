@@ -10,5 +10,24 @@ we use the Loops. Basically programming languages have 2 types of loops
 
 1. WHILE - 
 	works on condition, and it executes unless and until the condition does not get failed. It is indeterminate.
-2. FOR - 
+
+	Syntax - 
+		while CONDITION:
+			statement 1
+			statement 2
+			---
+			statement N
+
+
+2. FOR IN- 
 	works on ranges. It is determinate loop. i.e. It is already having execution plan for start and end.
+
+	Syntax -
+
+		for i in range(START,END):
+			body of the loop
+	Example-
+
+		for i in range(1,5):
+			print(i)
+	In above example i will assigned with 1 and prints 1. Then i gets assigned value 2 and prints 2. Then i gets assigned value 3 and prints 3. Then i gets assigned value 4 and prints 4. At last the END - 1 is 4 hence, loop will get terminated.

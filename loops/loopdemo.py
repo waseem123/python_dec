@@ -1,4 +1,7 @@
-print("Welcome to Python Training")
-print("Welcome to Python Training")
-print("Welcome to Python Training")
-print("Welcome to Python Training")
+for i in range(1,500):
+	print(i)
+else:
+	print("END OF RANGE")
+
+
+
