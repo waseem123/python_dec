@@ -1,0 +1,7 @@
+mytuple = ("Akhila","Miran","Navid","Waseem","Prem")
+print(mytuple)
+print(mytuple[0:])
+print(mytuple[:5])
+print(mytuple[1:3])
+print(mytuple[-3:-1])
+print(mytuple[0:-1])
