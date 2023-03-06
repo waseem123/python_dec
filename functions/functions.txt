@@ -1,0 +1,24 @@
+Function is a self contained block of code that executes a specific task.
+It is helpful to minimize the bigger task in smaller smaller tasks.
+It can be used as module with write once and execute as many times a you want.
+
+Syntax - 
+The syntax to create a function is as follows - 
+
+def FUNCTION_NAME(parameters...N):
+	statement 1
+	statement 2
+	...
+	statement N
+
+where,
+* def is the keyword
+* FUNCTION_NAME is the name given to the function
+parameters are the inputs given to the function for its execution
+* statements are the internal body(Actual logic) of the function
+
+functions are of four types
+1. Function with NO Parameter No Return Value
+2. Function with Parameter But No Return Value
+3. Function with No Paramater But Return Value
+4. Function with Parameter and Return Value BOTH
